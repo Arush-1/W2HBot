@@ -8,8 +8,8 @@
     "plugin",
     "modular",
     "productivity"
-  ],
-  "repository": "https://github.com/W2HGalaxy-OP/W2HBot/",
+  ]
+  "repository": "https://github.com/Arush-1/W2HBot/",
   "website": "https://github.com/W2HGalaxy-OP/W2HBot/",
   "success_url": "https://t.me/W2HUserbot",
   "env": {
